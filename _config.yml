@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -19,7 +18,7 @@ title: /dev/kraluk
 description: > # this means to ignore newlines until "baseurl:"
   Just my blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kraluk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lkrauzo
 github_username:  kraluk
 
